@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoFuel</string>
+    <string-array name = "fuel_types">
+        <item>АИ-92</item>
+        <item>АИ-95</item>
+        <item>АИ-95 Ultimate</item>
+        <item>Дизель</item>
+    </string-array>>
+</resources>
